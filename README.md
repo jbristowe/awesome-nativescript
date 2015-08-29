@@ -32,25 +32,24 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 * [nativescript-barcodescanner](https://www.npmjs.com/package/nativescript-barcodescanner) - scan QR/barcodes with a NativeScript app
 * [nativescript-clipboard](https://www.npmjs.com/package/nativescript-clipboard) - clipboard module for use in NativeScript apps
 * [nativescript-email](https://www.npmjs.com/package/nativescript-email) - email plugin for your NativeScript app
-* [nativescript-emulator-reload](https://www.npmjs.com/package/nativescript-emulator-reload)
-* [nativescript-flashlight](https://www.npmjs.com/package/nativescript-flashlight)
-* [nativescript-google-sdk](https://www.npmjs.com/package/nativescript-google-sdk)
-* [nativescript-insomnia](https://www.npmjs.com/package/nativescript-insomnia)
-* [nativescript-livesync](https://www.npmjs.com/package/nativescript-livesync)
-* [nativescript-maps](https://www.npmjs.com/package/nativescript-maps)
-* [nativescript-observable-subscribe](https://www.npmjs.com/package/nativescript-observable-subscribe)
-* [nativescript-phone](https://www.npmjs.com/package/nativescript-phone)
-* [nativescript-plugin-appcompat](https://www.npmjs.com/package/nativescript-plugin-appcompat)
-* [nativescript-plugin-google-play-services](https://www.npmjs.com/package/nativescript-plugin-google-play-services)
-* [nativescript-push-notifications](https://www.npmjs.com/package/nativescript-push-notifications)
-* [nativescript-social-share](https://www.npmjs.com/package/nativescript-social-share)
-* [nativescript-sqlite](https://www.npmjs.com/package/nativescript-sqlite)
-* [nativescript-telerik-ui](https://www.npmjs.com/package/nativescript-telerik-ui)
-* [nativescript-texttospeech](https://www.npmjs.com/package/nativescript-texttospeech)
-* [nativescript-tracing](https://www.npmjs.com/package/nativescript-tracing)
-* [nativescript-toast](https://www.npmjs.com/package/nativescript-toast)
-* [nativescript-vibrate](https://www.npmjs.com/package/nativescript-vibrate)
-* [nativescript-websockets](https://www.npmjs.com/package/nativescript-websockets)
+* [nativescript-emulator-reload](https://www.npmjs.com/package/nativescript-emulator-reload) - gulp script for monitoring NativeScript source files to trigger a build and load inside the emulator
+* [nativescript-flashlight](https://www.npmjs.com/package/nativescript-flashlight) - a flashlight NativeScript module for Android and iOS
+* [nativescript-insomnia](https://www.npmjs.com/package/nativescript-insomnia) - prevents the screen from dimming (and eventually lock the device) while active
+* [nativescript-livesync](https://www.npmjs.com/package/nativescript-livesync) - LiveSync NativeScript module for Android v1.2.1 runtimes
+* [nativescript-maps](https://www.npmjs.com/package/nativescript-maps) - a NativeScript module for using native map APIs
+* [nativescript-observable-subscribe](https://www.npmjs.com/package/nativescript-observable-subscribe) - a NativeScript module to add subscribe functionality to observables
+* [nativescript-phone](https://www.npmjs.com/package/nativescript-phone) - a phone NativeScript module for Android and iOS
+* [nativescript-plugin-appcompat](https://www.npmjs.com/package/nativescript-plugin-appcompat) - a plugin that installs the v7-appcompat Android Support library to a NativeScript project
+* [nativescript-plugin-google-play-services](https://www.npmjs.com/package/nativescript-plugin-google-play-services) - a plugin which installs the Google Play Services library to your NativeScript project
+* [nativescript-push-notifications](https://www.npmjs.com/package/nativescript-push-notifications) - a plugin to support push notifications
+* [nativescript-social-share](https://www.npmjs.com/package/nativescript-social-share) - a NativeScript module to use the native social sharing widget
+* [nativescript-sqlite](https://www.npmjs.com/package/nativescript-sqlite) - a SQLite NativeScript module for Android and iOS
+* [nativescript-telerik-ui](https://www.npmjs.com/package/nativescript-telerik-ui) - a set of rich-ui, cross-platform components based on the native iOS and Android libraries provided by Telerik
+* [nativescript-texttospeech](https://www.npmjs.com/package/nativescript-texttospeech) - a plugin to support text-to-speech
+* [nativescript-tracing](https://www.npmjs.com/package/nativescript-tracing) - a simple tracing NativeScript module for Android and iOS
+* [nativescript-toast](https://www.npmjs.com/package/nativescript-toast) - a NativeScript toast plugin for Android
+* [nativescript-vibrate](https://www.npmjs.com/package/nativescript-vibrate) - a vibrate NativeScript plugin for Android and iOS
+* [nativescript-websockets](https://www.npmjs.com/package/nativescript-websockets) - a WebSocket NativeScript module for Android
 
 ## Videos
 
