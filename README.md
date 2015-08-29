@@ -2,7 +2,14 @@
 
 A curated list of awesome articles, plugins, and resources for NativeScript.
 
-Inspired by the awesome [awesome](https://github.com/sindresorhus/awesome) list of awesome resources and such, which is awesome.
+## Table of Contents
+
+* [Awesome NativeScript](#awesome-nativescript)
+  * [NativeScript](#nativescript)
+  * [Articles](#articles)
+  * [Plugins and Modules](#plugins-and-modules)
+  * [Videos](#videos)
+  * [License](#license)
 
 ## NativeScript
 
