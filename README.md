@@ -5,15 +5,15 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 ## Table of Contents
 
 * [Awesome NativeScript](#awesome-nativescript)
-  * [NativeScript](#nativescript)
+  * [Official Resources](#official-resources)
   * [Articles](#articles)
   * [Plugins and Modules](#plugins-and-modules)
   * [Videos](#videos)
   * [License](#license)
 
-## NativeScript
+## Official Resources
 
-* [Homepage](http://nativescript.org/)
+* [NativeScript Homepage](http://nativescript.org/)
 * [NativeScript on Twitter (@nativescript)](https://twitter.com/nativescript)
 * [NativeScript on GitHub](https://github.com/NativeScript)
 * [FAQ on NativeScript](http://www.telerik.com/nativescript/faq)
