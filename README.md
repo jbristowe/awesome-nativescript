@@ -1,5 +1,8 @@
-# awesome-nativescript
+# awesome-nativescript [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 A curated list of awesome articles, plugins, and resources for NativeScript.
+
+Inspired by the awesome [awesome](https://github.com/sindresorhus/awesome) list of awesome resources and such, which is awesome.
 
 ## NativeScript
 
@@ -59,3 +62,9 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 * [NativeScript Launch Keynote](https://youtu.be/8hr4E9eodS4)
 * [NativeScript 1.2 Release Webinar](https://youtu.be/binVpBThb0A)
 * [Meet the NativeScript Team: What is NativeScript?](https://youtu.be/yGcAOwWyYXY)
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
