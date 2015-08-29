@@ -69,9 +69,3 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 * [NativeScript Launch Keynote](https://youtu.be/8hr4E9eodS4)
 * [NativeScript 1.2 Release Webinar](https://youtu.be/binVpBThb0A)
 * [Meet the NativeScript Team: What is NativeScript?](https://youtu.be/yGcAOwWyYXY)
-
-## License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
