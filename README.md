@@ -23,14 +23,21 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 
 * [A NativeScript Development Workflow for Sublime Text](http://developer.telerik.com/featured/a-nativescript-development-workflow-for-sublime-text/)
 * [Building Your Own NativeScript Modules for npm](http://developer.telerik.com/featured/building-your-own-nativescript-modules-for-npm/)
+* [Calcu{N}ator - the NativeScript Calculator](https://www.nativescript.org/blog/calcunator-the-nativescript-calculator)
 * [Customize the iOS Navigation Bar / Status Bar with NativeScript](http://developer.telerik.com/featured/customizing-ios-navigation-bar-status-bar-nativescript/)
-* [Demystifying NativeScript Layouts](http://developer.telerik.com/featured/demystifying-nativescript-layouts/)
+* [Demystifying NativeScript Layouts](https://www.nativescript.org/blog/demystifying-nativescript-layouts)
 * [Getting Started with NativeScript](http://developer.telerik.com/featured/getting-started-nativescript/)
 * [How NativeScript Works](http://developer.telerik.com/featured/nativescript-works/)
+* [How to Analyze the App Package and Native Visual UI Tree of a NativeScript Application](https://www.nativescript.org/blog/how-to-analyze-the-app-package-and-native-visual-ui-tree-of-a-nativescript-application)
+* [How to Enable HealthKit in Your NativeScript Application](https://www.nativescript.org/blog/how-to-enable-healthkit-in-your-nativescript-application)
 * [NativeScript - A Technical Overview](http://developer.telerik.com/featured/nativescript-a-technical-overview/)
 * [Offline Support for Hybrid, Web and NativeScript Apps](http://developer.telerik.com/products/offline-support-for-hybrid-web-and-nativescript-apps/)
 * [On NativeScript for Android](http://developer.telerik.com/featured/nativescript-android/)
 * [The TelerikNEXT Conference App – Built with NativeScript](http://developer.telerik.com/featured/the-teleriknext-conference-app-built-with-nativescript/)
+* [Take Your Selfie with NativeScript and its Cross-Platform Camera API](https://www.nativescript.org/blog/take-your-selfie-with-nativescript-and-its-cross-platform-camera-api)
+* [Tracing NativeScript Applications](https://www.nativescript.org/blog/tracing-nativescript-applications)
+* [Using npm Modules and NativeScript Plugins](https://www.nativescript.org/blog/using-npm-modules-and-nativescript-plugins)
+* [Welcome to Telerik UI for NativeScript](https://www.nativescript.org/blog/welcome-to-telerik-ui-for-nativescript)
 
 ## Plugins and Modules
 
