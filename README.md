@@ -14,11 +14,10 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 ## NativeScript
 
 * [Homepage](http://nativescript.org/)
-* [@nativescript](https://twitter.com/nativescript)
-* [GitHub](https://github.com/NativeScript/NativeScript)
-* [npm](https://www.npmjs.com/package/nativescript)
-* [FAQ](http://www.telerik.com/nativescript/faq)
-* [Showcases](https://www.nativescript.org/showcases)
+* [NativeScript on Twitter (@nativescript)](https://twitter.com/nativescript)
+* [NativeScript on GitHub](https://github.com/NativeScript)
+* [FAQ on NativeScript](http://www.telerik.com/nativescript/faq)
+* [Showcase NativeScript Apps](https://www.nativescript.org/showcases)
 
 ## Articles
 
@@ -35,6 +34,7 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 
 ## Plugins and Modules
 
+* [nativescript](https://www.npmjs.com/package/nativescript) - the command-line interface for building NativeScript projects
 * [nativescript-animated-menu](https://www.npmjs.com/package/nativescript-animated-menu) - a NativeScript module to add animated side menu to your apps
 * [nativescript-appavailability](https://www.npmjs.com/package/nativescript-appavailability) - a NativeScript plugin to check for availability of other apps on the device
 * [nativescript-appversion](https://www.npmjs.com/package/nativescript-appversion) - read the version of your NativeScript app
