@@ -19,6 +19,7 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 * [FAQ on NativeScript](http://www.telerik.com/nativescript/faq)
 * [Showcase NativeScript Apps](https://www.nativescript.org/showcases)
 * [NativeScript Quick Start](http://nativescript.github.io/quick-start/)
+* [Let's Talk NativeScript](http://slides.com/telerikdevrel/nativescript#/) (Presentation)
 
 ## Articles
 
