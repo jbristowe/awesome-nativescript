@@ -74,6 +74,7 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 ## Videos
 
 * [A Lap Around NativeScript](https://youtu.be/HWboi_9aba8) (41:19) - a good primer by TJ VanToll on NativeScript fundamentals and its technical underpinnings
+* [Getting Started with NativeScript](https://youtu.be/rsCT5fpES4Q) (12:30) - TJ VanToll provides an overview of how to set up your environment to start being NativeScript apps
 * [Introducing NativeScript](https://youtu.be/umC11SeqtZw) (31:17) - Burke Holland provides a quick overview of NativeScript
 * [NativeScript Launch Keynote](https://youtu.be/8hr4E9eodS4) (51:45) - the launch webinar covering the why and how of NativeScript
 * [NativeScript 1.2 Release Webinar](https://youtu.be/binVpBThb0A) (50:12) - the release webinar for NativeScript 1.2
