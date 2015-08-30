@@ -27,6 +27,7 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 * [Building Your Own NativeScript Modules for npm](http://developer.telerik.com/featured/building-your-own-nativescript-modules-for-npm/)
 * [Calcu{N}ator - the NativeScript Calculator](https://www.nativescript.org/blog/calcunator-the-nativescript-calculator)
 * [Customize the iOS Navigation Bar / Status Bar with NativeScript](http://developer.telerik.com/featured/customizing-ios-navigation-bar-status-bar-nativescript/)
+* [Deep-Linking Your NativeScript Apps with iOS 9 User Activity and Core Spotlight APIs](https://www.nativescript.org/blog/deep-linking-your-nativescripts-apps-with-ios-9-user-activity-and-core-spotlight-apis)
 * [Demystifying NativeScript Layouts](https://www.nativescript.org/blog/demystifying-nativescript-layouts)
 * [Getting Started with NativeScript](http://developer.telerik.com/featured/getting-started-nativescript/)
 * [How NativeScript Works](http://developer.telerik.com/featured/nativescript-works/)
