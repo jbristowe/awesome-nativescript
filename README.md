@@ -8,9 +8,9 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
   * [Official Resources](#official-resources)
   * [Articles](#articles)
   * [Plugins and Modules](#plugins-and-modules)
+  * [Tools](#tools)
   * [Videos](#videos)
-  * [License](#license)
-
+  
 ## Official Resources
 
 * [NativeScript Homepage](http://nativescript.org/)
@@ -70,6 +70,11 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 * [nativescript-toast](https://www.npmjs.com/package/nativescript-toast) - a NativeScript toast plugin for Android
 * [nativescript-vibrate](https://www.npmjs.com/package/nativescript-vibrate) - a vibrate NativeScript plugin for Android and iOS
 * [nativescript-websockets](https://www.npmjs.com/package/nativescript-websockets) - a WebSocket NativeScript module for Android
+
+## Tools
+
+* [NativeScript Snippets for Sublime Text](https://github.com/tsvetan-ganev/nativescript-sublime-snippets)
+* [NativeScript Snippets for Visual Studio Code](https://github.com/tsvetan-ganev/nativescript-vscode-snippets)
 
 ## Videos
 
