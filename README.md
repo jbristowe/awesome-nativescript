@@ -10,7 +10,7 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
   * [Plugins and Modules](#plugins-and-modules)
   * [Tools](#tools)
   * [Videos](#videos)
-  
+
 ## Official Resources
 
 * [NativeScript Homepage](http://nativescript.org/)
@@ -73,6 +73,8 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 
 ## Tools
 
+* [NativeScript Project Template with TypeScript](https://github.com/hdeshev/nativescript-ts-hello)
+* [Docker Container for NativeScript CLI and SDKs](https://github.com/oren/docker-nativescript)
 * [NativeScript Snippets for Sublime Text](https://github.com/tsvetan-ganev/nativescript-sublime-snippets)
 * [NativeScript Snippets for Visual Studio Code](https://github.com/tsvetan-ganev/nativescript-vscode-snippets)
 
