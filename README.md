@@ -6,6 +6,7 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 
 * [Awesome NativeScript](#awesome-nativescript)
   * [Official Resources](#official-resources)
+  * [Apps](#apps)
   * [Articles](#articles)
   * [Plugins and Modules](#plugins-and-modules)
   * [Tools](#tools)
@@ -17,9 +18,12 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 * [NativeScript on Twitter (@nativescript)](https://twitter.com/nativescript)
 * [NativeScript on GitHub](https://github.com/NativeScript)
 * [FAQ on NativeScript](http://www.telerik.com/nativescript/faq)
-* [Showcase NativeScript Apps](https://www.nativescript.org/showcases)
 * [NativeScript Quick Start](http://nativescript.github.io/quick-start/)
 * [Let's Talk NativeScript](http://slides.com/telerikdevrel/nativescript#/) (Presentation)
+
+## Apps
+
+* [Showcase NativeScript Apps](https://www.nativescript.org/showcases)
 
 ## Articles
 
