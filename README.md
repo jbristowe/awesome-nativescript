@@ -58,6 +58,7 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 * [nativescript-livesync](https://www.npmjs.com/package/nativescript-livesync) - LiveSync NativeScript module for Android v1.2.1 runtimes
 * [nativescript-maps](https://www.npmjs.com/package/nativescript-maps) - a NativeScript module for using native map APIs
 * [nativescript-observable-subscribe](https://www.npmjs.com/package/nativescript-observable-subscribe) - a NativeScript module to add subscribe functionality to observables
+* [nativescript-openurl](https://www.npmjs.com/package/nativescript-openurl) - a module for providing an open URL action for Android and iOS
 * [nativescript-phone](https://www.npmjs.com/package/nativescript-phone) - a phone NativeScript module for Android and iOS
 * [nativescript-plugin-appcompat](https://www.npmjs.com/package/nativescript-plugin-appcompat) - a plugin that installs the v7-appcompat Android Support library to a NativeScript project
 * [nativescript-plugin-google-play-services](https://www.npmjs.com/package/nativescript-plugin-google-play-services) - a plugin which installs the Google Play Services library to your NativeScript project
