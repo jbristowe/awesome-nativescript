@@ -2,8 +2,6 @@
 
 A curated list of awesome articles, plugins, and resources for NativeScript.
 
-## Table of Contents
-
  * [Official Resources](#official-resources)
  * [Apps](#apps)
  * [Articles](#articles)
