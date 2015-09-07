@@ -4,13 +4,12 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 
 ## Table of Contents
 
-* [Awesome NativeScript](#awesome-nativescript)
-  * [Official Resources](#official-resources)
-  * [Apps](#apps)
-  * [Articles](#articles)
-  * [Plugins and Modules](#plugins-and-modules)
-  * [Tools](#tools)
-  * [Videos](#videos)
+ * [Official Resources](#official-resources)
+ * [Apps](#apps)
+ * [Articles](#articles)
+ * [Plugins and Modules](#plugins-and-modules)
+ * [Tools](#tools)
+ * [Videos](#videos)
 
 ## Official Resources
 
