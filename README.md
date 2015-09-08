@@ -44,6 +44,13 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 * [Using npm Modules and NativeScript Plugins](https://www.nativescript.org/blog/using-npm-modules-and-nativescript-plugins)
 * [Welcome to Telerik UI for NativeScript](https://www.nativescript.org/blog/welcome-to-telerik-ui-for-nativescript)
 
+## Community
+
+* [NativeScript Community on Google+](https://plus.google.com/u/0/communities/117408587889337015711)
+* [NativeScript Forum](https://groups.google.com/forum/#!forum/nativescript)
+* [NativeScript on IRC](http://webchat.freenode.net/?channels=nativescript)
+* [NativeScript on Stack Overflow](http://stackoverflow.com/questions/tagged/nativescript)
+
 ## Plugins and Modules
 
 * [nativescript](https://www.npmjs.com/package/nativescript) - the command-line interface for building NativeScript projects
@@ -73,13 +80,6 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 * [nativescript-toast](https://www.npmjs.com/package/nativescript-toast) - a NativeScript toast plugin for Android
 * [nativescript-vibrate](https://www.npmjs.com/package/nativescript-vibrate) - a vibrate NativeScript plugin for Android and iOS
 * [nativescript-websockets](https://www.npmjs.com/package/nativescript-websockets) - a WebSocket NativeScript module for Android
-
-## Community
-
-* [NativeScript Community on Google+](https://plus.google.com/u/0/communities/117408587889337015711)
-* [NativeScript Forum](https://groups.google.com/forum/#!forum/nativescript)
-* [NativeScript on IRC](http://webchat.freenode.net/?channels=nativescript)
-* [NativeScript on Stack Overflow](http://stackoverflow.com/questions/tagged/nativescript)
 
 ## Tools
 
