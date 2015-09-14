@@ -27,6 +27,7 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 ## Articles
 
 * [A NativeScript Development Workflow for Sublime Text](http://developer.telerik.com/featured/a-nativescript-development-workflow-for-sublime-text/)
+* [Adding Analytics to Your NativeScript App](https://www.nativescript.org/blog/adding-analytics-to-your-nativescript-app)
 * [Building Your Own NativeScript Modules for npm](http://developer.telerik.com/featured/building-your-own-nativescript-modules-for-npm/)
 * [Calcu{N}ator - the NativeScript Calculator](https://www.nativescript.org/blog/calcunator-the-nativescript-calculator)
 * [Customize the iOS Navigation Bar / Status Bar with NativeScript](http://developer.telerik.com/featured/customizing-ios-navigation-bar-status-bar-nativescript/)
