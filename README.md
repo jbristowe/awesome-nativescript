@@ -55,15 +55,18 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 ## Plugins and Modules
 
 * [nativescript](https://www.npmjs.com/package/nativescript) - the command-line interface for building NativeScript projects
-* [nativescript-animated-menu](https://www.npmjs.com/package/nativescript-animated-menu) - a NativeScript module to add animated side menu to your apps
-* [nativescript-appavailability](https://www.npmjs.com/package/nativescript-appavailability) - a NativeScript plugin to check for availability of other apps on the device
+* [nativescript-angular](https://www.npmjs.com/package/nativescript-angular) - implements a renderer that lets you build native mobile apps with Angular2 using the NativeScript widgets
+* [nativescript-animated-menu](https://www.npmjs.com/package/nativescript-animated-menu) - an animated side menu
+* [nativescript-appavailability](https://www.npmjs.com/package/nativescript-appavailability) - check for availability of other apps on the device
 * [nativescript-appversion](https://www.npmjs.com/package/nativescript-appversion) - read the version of your NativeScript app
-* [nativescript-azure-mobile-basic](https://www.npmjs.com/package/nativescript-azure-mobile-basic) - a NativeScript module to read Azure Mobile Services backend table data
+* [nativescript-azure-mobile-basic](https://www.npmjs.com/package/nativescript-azure-mobile-basic) - reads Azure Mobile Services backend table data
+* [nativescript-background-http](https://www.npmjs.com/package/nativescript-background-http) - provides background upload for iOS and Android
 * [nativescript-barcodescanner](https://www.npmjs.com/package/nativescript-barcodescanner) - scan QR/barcodes with a NativeScript app
 * [nativescript-clipboard](https://www.npmjs.com/package/nativescript-clipboard) - clipboard module for use in NativeScript apps
 * [nativescript-email](https://www.npmjs.com/package/nativescript-email) - email plugin for your NativeScript app
 * [nativescript-emulator-reload](https://www.npmjs.com/package/nativescript-emulator-reload) - gulp script for monitoring NativeScript source files to trigger a build and load inside the emulator
 * [nativescript-flashlight](https://www.npmjs.com/package/nativescript-flashlight) - a flashlight NativeScript module for Android and iOS
+* [nativescript-google-sdk](https://www.npmjs.com/package/nativescript-google-sdk) - instructions for adding Google SDKs to a NativeScript project
 * [nativescript-insomnia](https://www.npmjs.com/package/nativescript-insomnia) - prevents the screen from dimming (and eventually lock the device) while active
 * [nativescript-livesync](https://www.npmjs.com/package/nativescript-livesync) - LiveSync NativeScript module for Android v1.2.1 runtimes
 * [nativescript-maps](https://www.npmjs.com/package/nativescript-maps) - a NativeScript module for using native map APIs
