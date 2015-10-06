@@ -45,6 +45,7 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 * [Tracing NativeScript Applications](https://www.nativescript.org/blog/tracing-nativescript-applications)
 * [Using npm Modules and NativeScript Plugins](https://www.nativescript.org/blog/using-npm-modules-and-nativescript-plugins)
 * [Welcome to Telerik UI for NativeScript](https://www.nativescript.org/blog/welcome-to-telerik-ui-for-nativescript)
+* [How to use Fonts in NativeScript](http://fluentreports.com/blog/?p=109)
 
 ## Community
 
@@ -55,6 +56,7 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 
 ## Plugins and Modules
 
+* [Another Plugin and Compatability List](https://github.com/nathanaela/nativescript-plugins)
 * [nativescript](https://www.npmjs.com/package/nativescript) - the command-line interface for building NativeScript projects
 * [nativescript-angular](https://www.npmjs.com/package/nativescript-angular) - implements a renderer that lets you build native mobile apps with Angular2 using the NativeScript widgets
 * [nativescript-animated-menu](https://www.npmjs.com/package/nativescript-animated-menu) - an animated side menu
@@ -69,7 +71,7 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 * [nativescript-flashlight](https://www.npmjs.com/package/nativescript-flashlight) - a flashlight NativeScript module for Android and iOS
 * [nativescript-google-sdk](https://www.npmjs.com/package/nativescript-google-sdk) - instructions for adding Google SDKs to a NativeScript project
 * [nativescript-insomnia](https://www.npmjs.com/package/nativescript-insomnia) - prevents the screen from dimming (and eventually lock the device) while active
-* [nativescript-livesync](https://www.npmjs.com/package/nativescript-livesync) - LiveSync NativeScript module for Android v1.2.1 runtimes
+* [nativescript-livesync](https://www.npmjs.com/package/nativescript-livesync) - LiveSync NativeScript module for Android current version of NativeScript
 * [nativescript-maps](https://www.npmjs.com/package/nativescript-maps) - a NativeScript module for using native map APIs
 * [nativescript-observable-subscribe](https://www.npmjs.com/package/nativescript-observable-subscribe) - a NativeScript module to add subscribe functionality to observables
 * [nativescript-openurl](https://www.npmjs.com/package/nativescript-openurl) - a module for providing an open URL action for Android and iOS
@@ -90,8 +92,10 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 
 * [NativeScript Project Template with TypeScript](https://github.com/hdeshev/nativescript-ts-hello)
 * [Docker Container for NativeScript CLI and SDKs](https://github.com/oren/docker-nativescript)
+* [Vagrant Container for full NativeScript development](https://github.com/nathanaela/nativescript-vm)
 * [NativeScript Snippets for Sublime Text](https://github.com/tsvetan-ganev/nativescript-sublime-snippets)
 * [NativeScript Snippets for Visual Studio Code](https://github.com/tsvetan-ganev/nativescript-vscode-snippets)
+* [NativeScript Bleeding Edge Nightly Masters](https://nativescript.rocks)
 
 ## Videos
 
