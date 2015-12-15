@@ -79,6 +79,7 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 * [nativescript-plugin-appcompat](https://www.npmjs.com/package/nativescript-plugin-appcompat) - a plugin that installs the v7-appcompat Android Support library to a NativeScript project
 * [nativescript-plugin-google-play-services](https://www.npmjs.com/package/nativescript-plugin-google-play-services) - a plugin which installs the Google Play Services library to your NativeScript project
 * [nativescript-push-notifications](https://www.npmjs.com/package/nativescript-push-notifications) - a plugin to support push notifications
+* [nativescript-snackbar](https://www.npmjs.com/package/nativescript-snackbar) - a NativeScript module to use the native Android Material Design widget
 * [nativescript-social-share](https://www.npmjs.com/package/nativescript-social-share) - a NativeScript module to use the native social sharing widget
 * [nativescript-sqlite](https://www.npmjs.com/package/nativescript-sqlite) - a SQLite NativeScript module for Android and iOS
 * [nativescript-telerik-ui](https://www.npmjs.com/package/nativescript-telerik-ui) - a set of rich-ui, cross-platform components based on the native iOS and Android libraries provided by Telerik
