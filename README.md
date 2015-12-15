@@ -58,6 +58,7 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 
 * [Another Plugin and Compatability List](https://github.com/nathanaela/nativescript-plugins)
 * [nativescript](https://www.npmjs.com/package/nativescript) - the command-line interface for building NativeScript projects
+* [nativescript-admob](https://www.npmjs.com/package/nativescript-admob) - make money with your app by using Google's AdMob ads
 * [nativescript-angular](https://www.npmjs.com/package/nativescript-angular) - implements a renderer that lets you build native mobile apps with Angular2 using the NativeScript widgets
 * [nativescript-animated-menu](https://www.npmjs.com/package/nativescript-animated-menu) - an animated side menu
 * [nativescript-appavailability](https://www.npmjs.com/package/nativescript-appavailability) - check for availability of other apps on the device
@@ -68,10 +69,12 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 * [nativescript-clipboard](https://www.npmjs.com/package/nativescript-clipboard) - clipboard module for use in NativeScript apps
 * [nativescript-email](https://www.npmjs.com/package/nativescript-email) - email plugin for your NativeScript app
 * [nativescript-emulator-reload](https://www.npmjs.com/package/nativescript-emulator-reload) - gulp script for monitoring NativeScript source files to trigger a build and load inside the emulator
+* [nativescript-firebase](https://www.npmjs.com/package/nativescript-plugin-firebase) - the leading realtime JSON cloud datastore
 * [nativescript-flashlight](https://www.npmjs.com/package/nativescript-flashlight) - a flashlight NativeScript module for Android and iOS
 * [nativescript-google-sdk](https://www.npmjs.com/package/nativescript-google-sdk) - instructions for adding Google SDKs to a NativeScript project
 * [nativescript-insomnia](https://www.npmjs.com/package/nativescript-insomnia) - prevents the screen from dimming (and eventually lock the device) while active
 * [nativescript-livesync](https://www.npmjs.com/package/nativescript-livesync) - LiveSync NativeScript module for Android current version of NativeScript
+* [nativescript-mapbox](https://www.npmjs.com/package/nativescript-mapbox) - native maps, by Mapbox
 * [nativescript-maps](https://www.npmjs.com/package/nativescript-maps) - a NativeScript module for using native map APIs
 * [nativescript-observable-subscribe](https://www.npmjs.com/package/nativescript-observable-subscribe) - a NativeScript module to add subscribe functionality to observables
 * [nativescript-openurl](https://www.npmjs.com/package/nativescript-openurl) - a module for providing an open URL action for Android and iOS
@@ -85,6 +88,7 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 * [nativescript-texttospeech](https://www.npmjs.com/package/nativescript-texttospeech) - a plugin to support text-to-speech
 * [nativescript-tracing](https://www.npmjs.com/package/nativescript-tracing) - a simple tracing NativeScript module for Android and iOS
 * [nativescript-toast](https://www.npmjs.com/package/nativescript-toast) - a NativeScript toast plugin for Android
+* [nativescript-touchid](https://www.npmjs.com/package/nativescript-touchid) - authenticate your users with the iOS Touch ID fingerprint scanner
 * [nativescript-vibrate](https://www.npmjs.com/package/nativescript-vibrate) - a vibrate NativeScript plugin for Android and iOS
 * [nativescript-websockets](https://www.npmjs.com/package/nativescript-websockets) - a WebSocket NativeScript module for Android
 
