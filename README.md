@@ -100,7 +100,6 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 * [Vagrant Container for full NativeScript development](https://github.com/nathanaela/nativescript-vm)
 * [NativeScript Snippets for Sublime Text](https://github.com/tsvetan-ganev/nativescript-sublime-snippets)
 * [NativeScript Snippets for Visual Studio Code](https://github.com/tsvetan-ganev/nativescript-vscode-snippets)
-* [NativeScript Bleeding Edge Nightly Masters](https://nativescript.rocks)
 
 ## Videos
 
