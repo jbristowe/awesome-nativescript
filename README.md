@@ -105,7 +105,9 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 
 * [A Lap Around NativeScript](https://youtu.be/HWboi_9aba8) (41:19) - a good primer by TJ VanToll on NativeScript fundamentals and its technical underpinnings
 * [Getting Started with NativeScript](https://youtu.be/rsCT5fpES4Q) (12:30) - TJ VanToll provides an overview of how to set up your environment to start being NativeScript apps
+* [Getting Started with NativeScript](https://www.youtube.com/watch?v=MhwBpVRfljU) (57:30) - code along. Creating your first NativeScript app, a Reddit reader. By Emil Öberg.
 * [Introducing NativeScript](https://youtu.be/umC11SeqtZw) (31:17) - Burke Holland provides a quick overview of NativeScript
 * [NativeScript Launch Keynote](https://youtu.be/8hr4E9eodS4) (51:45) - the launch webinar covering the why and how of NativeScript
 * [NativeScript 1.2 Release Webinar](https://youtu.be/binVpBThb0A) (50:12) - the release webinar for NativeScript 1.2
+* [NativeScript vs PhoneGap/React/Titanium/Ionic/etc](https://www.youtube.com/watch?v=R98cdsq1qxA) (21:50) - explains how NativeScript differs from other mobile technologies. By Emil Öberg.
 * [Meet the NativeScript Team: What is NativeScript?](https://youtu.be/yGcAOwWyYXY) (2:44) - meet the developers who are building NativeScript
