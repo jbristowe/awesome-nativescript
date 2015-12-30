@@ -66,6 +66,7 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 * [nativescript-azure-mobile-basic](https://www.npmjs.com/package/nativescript-azure-mobile-basic) - reads Azure Mobile Services backend table data
 * [nativescript-background-http](https://www.npmjs.com/package/nativescript-background-http) - provides background upload for iOS and Android
 * [nativescript-barcodescanner](https://www.npmjs.com/package/nativescript-barcodescanner) - scan QR/barcodes with a NativeScript app
+* [nativescript-calendar](https://www.npmjs.com/package/nativescript-calendar) - create, delete and find Events in the native Calendar
 * [nativescript-clipboard](https://www.npmjs.com/package/nativescript-clipboard) - clipboard module for use in NativeScript apps
 * [nativescript-email](https://www.npmjs.com/package/nativescript-email) - email plugin for your NativeScript app
 * [nativescript-emulator-reload](https://www.npmjs.com/package/nativescript-emulator-reload) - gulp script for monitoring NativeScript source files to trigger a build and load inside the emulator
