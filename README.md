@@ -24,7 +24,7 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 
 * [Showcase NativeScript Apps](https://www.nativescript.org/showcases)
 
-### Open source
+## Open Source
 * [REKlistan](https://github.com/emiloberg/oppna-program-reklistan-app) - App that helps promote good and safe drug prescribing in Sweden. Downloads and stores data locally for offline use.
 
 ## Articles
