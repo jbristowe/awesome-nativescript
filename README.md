@@ -6,6 +6,7 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
  * [Apps](#apps)
  * [Articles](#articles)
  * [Community](#community)
+ * [Open Source](#open-source)
  * [Plugins and Modules](#plugins-and-modules)
  * [Tools](#tools)
  * [Videos](#videos)
@@ -23,9 +24,6 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 ## Apps
 
 * [Showcase NativeScript Apps](https://www.nativescript.org/showcases)
-
-## Open Source
-* [REKlistan](https://github.com/emiloberg/oppna-program-reklistan-app) - App that helps promote good and safe drug prescribing in Sweden. Downloads and stores data locally for offline use.
 
 ## Articles
 
@@ -56,6 +54,9 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 * [NativeScript Forum](https://groups.google.com/forum/#!forum/nativescript)
 * [NativeScript on IRC](http://webchat.freenode.net/?channels=nativescript)
 * [NativeScript on Stack Overflow](http://stackoverflow.com/questions/tagged/nativescript)
+
+## Open Source
+* [REKlistan](https://github.com/emiloberg/oppna-program-reklistan-app) - App that helps promote good and safe drug prescribing in Sweden. Downloads and stores data locally for offline use.
 
 ## Plugins and Modules
 
