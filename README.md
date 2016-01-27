@@ -47,6 +47,9 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 * [Using npm Modules and NativeScript Plugins](https://www.nativescript.org/blog/using-npm-modules-and-nativescript-plugins)
 * [Welcome to Telerik UI for NativeScript](https://www.nativescript.org/blog/welcome-to-telerik-ui-for-nativescript)
 * [How to use Fonts in NativeScript](http://fluentreports.com/blog/?p=109)
+* [Using the Android Palette in NativeScript](http://bradmartin.net/2016/01/19/using-the-android-palette-with-nativescript/)
+* [How to use Google Cloud Messaging Push Notifications in NativeScript](http://bradmartin.net/2015/12/28/use-google-cloud-messaging-for-push-notifications-with-nativescript/)
+* [YouTube videos in NativeScript](http://bradmartin.net/2016/01/25/videos-in-a-nativescript-app/)
 
 ## Community
 
