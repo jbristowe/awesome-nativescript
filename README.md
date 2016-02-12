@@ -77,6 +77,7 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 * [nativescript-firebase](https://www.npmjs.com/package/nativescript-plugin-firebase) - the leading realtime JSON cloud datastore
 * [nativescript-flashlight](https://www.npmjs.com/package/nativescript-flashlight) - a flashlight NativeScript module for Android and iOS
 * [nativescript-google-sdk](https://www.npmjs.com/package/nativescript-google-sdk) - instructions for adding Google SDKs to a NativeScript project
+* [nativescript-google-maps-sdk](https://github.com/dapriett/nativescript-google-maps-sdk) - Cross Platform Google Maps SDK for Nativescript
 * [nativescript-insomnia](https://www.npmjs.com/package/nativescript-insomnia) - prevents the screen from dimming (and eventually lock the device) while active
 * [nativescript-livesync](https://www.npmjs.com/package/nativescript-livesync) - LiveSync NativeScript module for Android current version of NativeScript
 * [nativescript-mapbox](https://www.npmjs.com/package/nativescript-mapbox) - native maps, by Mapbox
