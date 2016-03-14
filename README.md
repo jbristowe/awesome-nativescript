@@ -76,6 +76,7 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 * [nativescript-emulator-reload](https://www.npmjs.com/package/nativescript-emulator-reload) - gulp script for monitoring NativeScript source files to trigger a build and load inside the emulator
 * [nativescript-firebase](https://www.npmjs.com/package/nativescript-plugin-firebase) - the leading realtime JSON cloud datastore
 * [nativescript-flashlight](https://www.npmjs.com/package/nativescript-flashlight) - a flashlight NativeScript module for Android and iOS
+* [nativescript-floatingactionbutton](https://www.npmjs.com/package/nativescript-floatingactionbutton) - a NativeScript module to use native Android Floating Action Button in your XML markup
 * [nativescript-google-sdk](https://www.npmjs.com/package/nativescript-google-sdk) - instructions for adding Google SDKs to a NativeScript project
 * [nativescript-insomnia](https://www.npmjs.com/package/nativescript-insomnia) - prevents the screen from dimming (and eventually lock the device) while active
 * [nativescript-livesync](https://www.npmjs.com/package/nativescript-livesync) - LiveSync NativeScript module for Android current version of NativeScript
@@ -89,6 +90,7 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 * [nativescript-push-notifications](https://www.npmjs.com/package/nativescript-push-notifications) - a plugin to support push notifications
 * [nativescript-snackbar](https://www.npmjs.com/package/nativescript-snackbar) - a NativeScript module to use the native Android Material Design widget
 * [nativescript-social-share](https://www.npmjs.com/package/nativescript-social-share) - a NativeScript module to use the native social sharing widget
+* [nativescript-signaturepad](https://www.npmjs.com/package/nativescript-signaturepad) - a NativeScript plugin to capture signatures and other drawings on the device screen
 * [nativescript-sqlite](https://www.npmjs.com/package/nativescript-sqlite) - a SQLite NativeScript module for Android and iOS
 * [nativescript-telerik-ui](https://www.npmjs.com/package/nativescript-telerik-ui) - a set of rich-ui, cross-platform components based on the native iOS and Android libraries provided by Telerik
 * [nativescript-texttospeech](https://www.npmjs.com/package/nativescript-texttospeech) - a plugin to support text-to-speech
@@ -96,6 +98,7 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 * [nativescript-toast](https://www.npmjs.com/package/nativescript-toast) - a NativeScript toast plugin for Android
 * [nativescript-touchid](https://www.npmjs.com/package/nativescript-touchid) - authenticate your users with the iOS Touch ID fingerprint scanner
 * [nativescript-vibrate](https://www.npmjs.com/package/nativescript-vibrate) - a vibrate NativeScript plugin for Android and iOS
+* [nativescript-videoplayer](https://www.npmjs.com/package/nativescript-videoplayer) - a simple module to use the native video playing controls
 * [nativescript-websockets](https://www.npmjs.com/package/nativescript-websockets) - a WebSocket NativeScript module for Android
 
 ## Tools
