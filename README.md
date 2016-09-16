@@ -98,6 +98,7 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 * [nativescript-social-share](https://www.npmjs.com/package/nativescript-social-share) - a NativeScript module to use the native social sharing widget
 * [nativescript-signaturepad](https://www.npmjs.com/package/nativescript-signaturepad) - a NativeScript plugin to capture signatures and other drawings on the device screen
 * [nativescript-sqlite](https://www.npmjs.com/package/nativescript-sqlite) - a SQLite NativeScript module for Android and iOS
+* [nativescript-telephony](https://www.npmjs.com/package/nativescript-telephony) - get data from the SIM card like the carrier name, mcc, mnc and country code and other system dependent additional info
 * [nativescript-telerik-ui](https://www.npmjs.com/package/nativescript-telerik-ui) - a set of rich-ui, cross-platform components based on the native iOS and Android libraries provided by Telerik
 * [nativescript-texttospeech](https://www.npmjs.com/package/nativescript-texttospeech) - a plugin to support text-to-speech
 * [nativescript-tracing](https://www.npmjs.com/package/nativescript-tracing) - a simple tracing NativeScript module for Android and iOS
