@@ -71,6 +71,7 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 * [nativescript-appavailability](https://www.npmjs.com/package/nativescript-appavailability) - check for availability of other apps on the device
 * [nativescript-appversion](https://www.npmjs.com/package/nativescript-appversion) - read the version of your NativeScript app
 * [nativescript-azure-mobile-basic](https://www.npmjs.com/package/nativescript-azure-mobile-basic) - reads Azure Mobile Services backend table data
+* [nativescript-azure-storage](https://www.npmjs.com/package/nativescript-azure-storage) - read, delete, create, list Azure Storage tables and blobs
 * [nativescript-background-http](https://www.npmjs.com/package/nativescript-background-http) - provides background upload for iOS and Android
 * [nativescript-barcodescanner](https://www.npmjs.com/package/nativescript-barcodescanner) - scan QR/barcodes with a NativeScript app
 * [nativescript-calendar](https://www.npmjs.com/package/nativescript-calendar) - create, delete and find Events in the native Calendar
