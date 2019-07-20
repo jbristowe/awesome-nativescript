@@ -50,6 +50,7 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 * [Using the Android Palette in NativeScript](http://bradmartin.net/2016/01/19/using-the-android-palette-with-nativescript/)
 * [How to use Google Cloud Messaging Push Notifications in NativeScript](http://bradmartin.net/2015/12/28/use-google-cloud-messaging-for-push-notifications-with-nativescript/)
 * [YouTube videos in NativeScript](http://bradmartin.net/2016/01/25/videos-in-a-nativescript-app/)
+* [Realtime Location Tracking app with NativeScript + Vue](https://medium.com/saibbyweb/building-a-real-time-location-tracking-app-with-nativescript-vue-under-350-lines-of-code-8b51ad40d657)
 
 ## Community
 
@@ -60,6 +61,7 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 
 ## Open Source
 * [REKlistan](https://github.com/emiloberg/oppna-program-reklistan-app) - App that helps promote good and safe drug prescribing in Sweden. Downloads and stores data locally for offline use.
+* [Realtime Location Tracking App with NativeScript + Vue](https://github.com/saibbyweb/Realtime-Location-Tracking-NativeScript-Vue) - A working, cross platform, realtime location tracking mobile app made with NativeScript and Vue, under 350 lines of code.
 
 ## Plugins and Modules
 
